@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3946605f.css",
-    "main.js": "/static/js/main.b2c343ba.js",
+    "main.css": "/static/css/main.a3b1e303.css",
+    "main.js": "/static/js/main.dd63d129.js",
     "static/media/privateplocybackground.png": "/static/media/privateplocybackground.ab9a3d65bb9c2f9e8006.png",
     "static/media/apple.png": "/static/media/apple.9b5f6eb38a09009d7a06.png",
     "static/media/payment-methods.svg": "/static/media/payment-methods.69e7ec34d1302e6b58b2cb1abe6b2f9c.svg",
@@ -27,7 +27,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.3946605f.css",
-    "static/js/main.b2c343ba.js"
+    "static/css/main.a3b1e303.css",
+    "static/js/main.dd63d129.js"
   ]
 }
